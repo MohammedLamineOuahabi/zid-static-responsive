@@ -231,6 +231,7 @@ a {
   .section-title {
     font-size: 27px;
     text-align: center;
+    padding-bottom: 100px;
   }
   .header {
     padding-top: 125px;
